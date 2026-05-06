@@ -34,7 +34,7 @@ Gmail API → FastAPI → BERT → Confidence Check → LLM → Decision → Gma
 ## 🔧 Setup  
 
 ```bash
-git clone https://github.com/your-username/email-ai-classifier.git
+git clone https://github.com/amarjithanand/email-ai-classifier.git
 cd email-ai-classifier
 python -m venv venv
 source venv/bin/activate
